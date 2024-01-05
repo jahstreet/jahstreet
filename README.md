@@ -1,15 +1,20 @@
 ### Hi folks 👋
 
-My name is Alex Sasnouskikh, I'm a passionate software engineer with more than 6 years of working experience at [EPAM](https://www.epam.com/), [Picnic](https://picnic.app/), [Miro](https://miro.com/).
+My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 7+ years of experience.
 
-Currently working as a Software Engineer @ [Adyen](https://www.adyen.com/).
+Currently, Data & ML @ [Adyen](https://www.adyen.com/).
+
+Previously:
+- Data & ML @ [Miro](https://miro.com/)
+- Logistics optimization algorithms and backend @ [Picnic](https://picnic.app/)
+- Big Data Platforms @ [EPAM](https://www.epam.com/).
 
 My primary skills are:
-- Data & MLOps: Spark, Kafka, Hadoop, Airflow
-- Cloud: AWS, Azure, GCP
+- Data & ML ops systems: Spark, Flink, Kafka, Airflow, Hadoop, Cassandra, Feast
 - Backend: Java, Python, SQL, Docker
-- SRE & DevOps: Kubernetes, Helm, Prometheus, Grafana, CI/CD, IaaC
-- Misc: R&D, open-source, technical leadership, project management
+- SRE / DevOps / infra: Kubernetes, Prometheus/Grafana, CI/CD, IaaC
+- Cloud: AWS, Azure, GCP & on-prem
+- Misc: distributed systems design and architecture, R&D and prototyping, open source development, technical leadership, project management
 
 Portfolio:
 - [Spark on Kubernetes cluster Helm chart](https://github.com/JahstreetOrg/spark-on-kubernetes-helm)
