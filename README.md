@@ -1,8 +1,8 @@
 ### Hi folks 👋
 
-My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 7+ years of experience.
+My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 8+ years of experience.
 
-Currently, Data & ML @ [Adyen](https://www.adyen.com/).
+Currently, Platform Engineer @ [Adyen](https://www.adyen.com/).
 
 Previously:
 - Data & ML @ [Miro](https://miro.com/)
