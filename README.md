@@ -2,12 +2,12 @@
 
 My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 8+ years of experience.
 
-Currently, Platform Engineer @ [Adyen](https://www.adyen.com/).
+Currently, Logistics planning systems Tech Lead @PicnicSupermarket
 
 Previously:
-- Data & ML @ [Miro](https://miro.com/)
-- Logistics optimization algorithms and backend @ [Picnic](https://picnic.app/)
-- Big Data Platforms @ [EPAM](https://www.epam.com/).
+- Platform Engineering @Adyen
+- Data & ML @miroapp
+- Big Data Platforms @epam
 
 My primary skills are:
 - Data & ML ops systems: Spark, Flink, Kafka, Airflow, Hadoop, Cassandra, Feast
@@ -20,8 +20,6 @@ Portfolio:
 - [Spark on Kubernetes cluster Helm chart](https://github.com/JahstreetOrg/spark-on-kubernetes-helm)
 - [Real-time delivery tracking blog post](https://medium.com/picnic-engineering/real-time-delivery-tracking-with-the-picnic-delivery-radar-292555df2179)
 
-You can find me in [social media](https://linktr.ee/jahstreetlove).
-
 I'm located in the Netherlands :netherlands: at the moment.
 
-Open for the open-source collabs, mentoring, sharing DSA and system design interview preparation experiences.
+Providing consulting services.
