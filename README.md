@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 8+ years of experience.
+My name is Alex Sasnouskikh, I'm a distributed systems software engineer with 11+ years of experience.
 
 Currently, Logistics planning systems Tech Lead @ [Picnic](https://github.com/PicnicSupermarket).
 
